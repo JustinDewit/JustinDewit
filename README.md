@@ -1,14 +1,9 @@
-# Hi 👋, I'm Justin
+Hi, I'm [Justin de Wit](https://www.linkedin.com/in/justindewit/).
 
-I’m a full-stack developer driven by a passion for transforming ideas into real-world applications.  
-My work spans both **Python** and **JavaScript (TypeScript)**, where I specialize in crafting dynamic and scalable solutions across the entire stack.
+Some of my personal projects (mostly still under construction):
+- [NASA API NAVIGATOR](https://github.com/JustinDewit/nasa-api-navigator) Explore NASA's satellite data and real-time Earth observations via a user-friendly interface.
+- [AWS BATCH CALLER](https://github.com/JustinDewit/AWS-BATCH-CALLER) Trigger custom batch jobs for web scraping.
 
-### I usually build with:
+Reach out through my personal website [justindewit.com](https://www.justindewit.com/) if you want to hire me (open to part-time and full-time)
 
-- **Frontend:** React/Next.js with Tailwind CSS
-- **Backend:** Scalable APIs using FastAPI and Node.js
-- **Databases:** PostgreSQL and MongoDB (SQL & NoSQL)
-- **Tools & Platforms:** Deploying with AWS and Vercel
-
-I also regularly work with Python and its amazing ecosystem, building APIs with FastAPI, writing testable, maintainable code,  
-and integrating a range of libraries to optimize backend performance.
+Have a nice day!
